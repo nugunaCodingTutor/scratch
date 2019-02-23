@@ -1,4 +1,4 @@
-[첫 화면](../readme.md)
+[첫 화면](../README.md)
 
 ## 스크래치 3.0
 https://scratch.mit.edu/
